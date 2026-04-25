@@ -1,12 +1,12 @@
 [
   {
     "icon": "Blog",
-    "name": "博客",
+    "name": "Blog",
     "link": "https://blog.ddmtdxw.cn/"
   },
   {
     "icon": "LaptopCode",
-    "name": "站点监测",
+    "name": "Status",
     "link": "https://status.ddmtdxw.cn/"
   },
   {
@@ -16,7 +16,12 @@
   },
   {
     "icon": "Cloud",
-    "name": "Music",
+    "name": "Cloud",
     "link": "https://list.ddmtdxw.cn/"
+  },
+  {
+    "icon": "CompactDisc",
+    "name": "Music",
+    "link": "https://music.ddmtdxw.cn/"
   }
 ]

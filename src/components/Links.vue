@@ -70,6 +70,8 @@ const siteIcon = {
   Book,
   Fire,
   LaptopCode,
+  MusicNoteFilled,
+  AlternateEmailFilled,
 };
 
 // 链接跳转
