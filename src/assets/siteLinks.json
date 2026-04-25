@@ -10,8 +10,13 @@
     "link": "https://status.ddmtdxw.cn/"
   },
   {
-    "icon": "Could",
+    "icon": "AlternateEmailFilled",
     "name": "Mail",
     "link": "https://mail.ddmtdxw.cn/"
+  },
+  {
+    "icon": "Cloud",
+    "name": "Music",
+    "link": "https://list.ddmtdxw.cn/"
   }
 ]
